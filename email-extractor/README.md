@@ -29,7 +29,7 @@ Instead of a slow request → wait → dump-everything-at-once model, results ar
 
 It's built for one purpose: turning a list of raw domains into a clean, de-duplicated list of real, usable contact emails — fast.
 
-> Built by [Adii](https://github.com/<your-username>) — freelance web dev & AI/ML engineer-in-training.
+> Built by [Adii](https://github.com/syedadilshahgitub) — freelance web dev & AI/ML engineer-in-training.
 
 ---
 
@@ -292,6 +292,6 @@ Released under the **MIT License** — free to use, modify, and distribute.
 
 **Built with ☕, regex, and a mild obsession with clean UIs.**
 
-[![GitHub](https://img.shields.io/badge/GitHub-<your--username>-181717?style=flat&logo=github)](https://github.com/<your-username>)
+[![GitHub](https://img.shields.io/badge/GitHub-<your--username>-181717?style=flat&logo=github)](https://github.com/syedadilshahgithub)
 
 </div>
