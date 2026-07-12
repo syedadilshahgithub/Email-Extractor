@@ -292,6 +292,6 @@ Released under the **MIT License** — free to use, modify, and distribute.
 
 **Built with ☕, regex, and a mild obsession with clean UIs.**
 
-[![GitHub](https://img.shields.io/badge/GitHub-<your--username>-181717?style=flat&logo=github)](https://github.com/syedadilshahgithub)
+[![GitHub](https://img.shields.io/badge/GitHub-syedadilshahgithub-181717?style=flat&logo=github)](https://github.com/syedadilshahgithub)
 
 </div>
